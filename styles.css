@@ -192,16 +192,17 @@ section {
 
 .info-quote {
     display: flex;
-    width: 50%;
+    width: 65%;
     font-size: 36px;
-    font-weight: 100;
+    font-weight: lighter;
     text-align: left;
     justify-content: left;
     font-style: italic;
+    
 }
 
 .quote-right {
-    width: 50%;
+    width: 65%;
     text-align: right;
 }
 /* Quote Section End */
